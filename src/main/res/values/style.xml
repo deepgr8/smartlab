@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="theme" parent="Theme.AppCompat.DayNight">
+        <item name="android:textColorPrimary">@color/black</item>
+    </style>
+
+    <style name="theme_dark" parent="Theme.AppCompat.DayNight">
+        <item name="android:textColorPrimary">@color/blue</item>
+    </style>
+
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "787638290241",
+    "firebase_url": "https://smart-lab-d7d62-default-rtdb.firebaseio.com",
+    "project_id": "smart-lab-d7d62",
+    "storage_bucket": "smart-lab-d7d62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787638290241:android:a7cb92d0c06b21160b03c0",
+        "android_client_info": {
+          "package_name": "com.example.smartlab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787638290241-41c9o6mjssplkjsds7unp8oc8ksnkv8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn5Nl2ClFarJPliCo-87kRsUtsSuWSmIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787638290241-41c9o6mjssplkjsds7unp8oc8ksnkv8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
